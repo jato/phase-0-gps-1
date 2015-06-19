@@ -1,2 +1,2 @@
-Let's mess things up
-*James & Gael*
+`git add`
+![Gael' website](http://gaelbergeron.github.io/index.html)
